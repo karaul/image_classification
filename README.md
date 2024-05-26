@@ -7,12 +7,13 @@ About in this project we will train models and use them to classify cats and dog
 <a href="https://github.com/maskiiw"><img alt="os" src="https://img.shields.io/badge/os-FFCF00?style=for-the-badge"></a>
 <a href="https://github.com/maskiiw"><img alt="shutil" src="https://img.shields.io/badge/shutil-000000?style=for-the-badge"></a>
 
-
 ## How you should use the src:
-1- at first you should train the dataset in text-trainer.py file 
+1- at first you should train the dataset in image_classification_model_trainer.py file 
   - point: if you dont have strong system train the model in colab or jupyter.
 
-2- after first step run the auto-complete file to see how program work.
+2- move your images to animals pics dir
+
+3- after all steps run the image_classification_app.py file to see how program work.
 
 ### offer: 
 Read the md files to get good information about the libraries used.
