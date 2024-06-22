@@ -5,6 +5,7 @@ in this basic project we will train models and use them to classify car, house a
 <a href="https://github.com/maskiiw"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
 <a href="https://github.com/maskiiw"><img alt="keras" src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=f5f5f5"></a>
 <a href="https://github.com/maskiiw"><img alt="os" src="https://img.shields.io/badge/os-FFCF00?style=for-the-badge"></a>
+<a href="https://github.com/maskiiw"><img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-7C4EC4?style=for-the-badge"></a>
 <a href="https://github.com/maskiiw"><img alt="shutil" src="https://img.shields.io/badge/shutil-000000?style=for-the-badge"></a>
 
 ## How you should use the src:
