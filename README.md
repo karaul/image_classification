@@ -19,6 +19,7 @@ in this basic project we will train models and use them to classify car, house a
 3- call the function with two params model_name and your imgs path
 
 4- after all steps run the image_classification_app.py file to see how program work.
+  - in this app i use a simple PyQt5 ui.
 
 ### offer: 
 Read the md files to get good information about the libraries used.
