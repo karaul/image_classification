@@ -16,7 +16,7 @@ in this basic project we will train models and use them to classify car, house a
 2- after that you should train the dataset in image_classification_model_trainer.py file 
   - point: if you dont have strong system train the model in colab or jupyter.
 
-3- call the function with two params model_name and your imgs path
+3- run the code and at end of the process enter the name you want to set on model.
 
 4- after all steps run the image_classification_app.py file to see how program work.
   - in this app i use a simple PyQt5 ui.
