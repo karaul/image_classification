@@ -1,12 +1,12 @@
 # image_classification
-in this basic project we will train models and use them to classify car, house and ship images.
+in this basic project we will train a Image classification **CNN** model with **tensorflow** and use the model by simple script.
 
 #### in this project we use below libraries: 
 <a href="https://github.com/amiriiw"><img alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=f5f5f5"></a>
 <a href="https://github.com/amiriiw"><img alt="keras" src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=f5f5f5"></a>
-<a href="https://github.com/amiriiw"><img alt="os" src="https://img.shields.io/badge/os-FFCF00?style=for-the-badge"></a>
-<a href="https://github.com/amiriiw"><img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-7C4EC4?style=for-the-badge"></a>
 <a href="https://github.com/amiriiw"><img alt="shutil" src="https://img.shields.io/badge/shutil-000000?style=for-the-badge"></a>
+<a href="https://github.com/amiriiw"><img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-7C4EC4?style=for-the-badge"></a>
+<a href="https://github.com/amiriiw"><img alt="os" src="https://img.shields.io/badge/os-FFCF00?style=for-the-badge"></a>
 
 ## How you should use the src:
 **waring: its good to read the src one time by your self.**
