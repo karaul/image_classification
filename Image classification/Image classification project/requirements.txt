@@ -1,0 +1,4 @@
+os
+PyQt5
+shutil
+tensorflow
