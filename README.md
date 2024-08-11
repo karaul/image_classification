@@ -63,7 +63,7 @@ To use this project, follow these steps:
 
     ```bash
     git clone https://github.com/amiriiw/image_classification
-    cd image-classification-project
+    cd image_classification
     ```
 
 2. Install the required libraries:
